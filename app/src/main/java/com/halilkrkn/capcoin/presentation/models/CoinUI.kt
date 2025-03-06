@@ -2,7 +2,7 @@ package com.halilkrkn.capcoin.presentation.models
 
 import android.icu.text.NumberFormat
 import androidx.annotation.DrawableRes
-import com.halilkrkn.capcoin.core.util.getDrawableIdForCoin
+import com.halilkrkn.capcoin.core.presentation.util.getDrawableIdForCoin
 import com.halilkrkn.capcoin.domain.models.Coin
 import java.util.Locale
 

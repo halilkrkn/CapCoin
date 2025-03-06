@@ -1,4 +1,4 @@
-package com.halilkrkn.capcoin.core.util
+package com.halilkrkn.capcoin.core.presentation.util
 
 import com.halilkrkn.capcoin.R
 
